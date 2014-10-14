@@ -1,0 +1,6 @@
+<div class="navbar">
+	<ul class="nav navbar-text pull-right">
+		<li><a href="/" class="proceed">Home</a></li>
+		<li><a href="/about" class="proceed">About</a></li>
+	</ul>
+</div>
